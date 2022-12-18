@@ -1,3 +1,15 @@
+![](https://raw.githubusercontent.com/BEPb/BEPb/master/assets/Bottom_up.svg)
+<p align="center"><img src="https://profile-counter.glitch.me/San3-Cod3/count.svg"></p>
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/San3-Cod3/San3-Cod3"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.2.3-FF1493.svg"></a>
+    <a href="https://github.com/San3-Cod3/San3-Cod3/graphs/contributors"><img src="https://img.shields.io/github/contributors/San3-Cod3/San3-Cod3?color=blue"></a>
+    <a href="https://github.com/San3-Cod3/San3-Cod3/stargazers"><img src="https://img.shields.io/github/stars/San3-Cod3/San3-Cod3.svg?logo=github"></a>
+    <a href="https://github.com/San3-Cod3/San3-Cod3/network/members"><img src="https://img.shields.io/github/forks/San3-Cod3/San3-Cod3.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=San3-Cod3/San3-Cod3" alt="visitors"/>   
+</p>
+
 - 👋 Hi, I’m @San3-Cod3
 
 - 👀 I’m interested in ... making simple stuff, noob friendly code - dumbing it down.
@@ -8,6 +20,13 @@
 
 - 📫 How to reach me ... via e-mail: [![](https://img.shields.io/badge/FreeProtonVPNUserAccount@proton.me-crimson?style=for-the-badge)](mailto:FreeProtonVPNUserAccount@proton.me)
 
+- <--- Dabbled with ---> [<img align="left" alt="Linux" height="28px" src="https://user-images.githubusercontent.com/95466780/208324213-23630390-894a-4c0c-b2cc-cfff8db18fd1.png" />](https://www.linux.org/)
+[<img align="left" alt="Bash" height="28px" src="https://user-images.githubusercontent.com/95466780/208324129-7ab6a12f-92ba-44d2-aa42-2bd0cf551dc9.png" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Raspberry Pi" height="28px" src="https://user-images.githubusercontent.com/95466780/208324472-6837936c-c78b-4095-a107-266acf49ee70.png" />](https://www.raspberrypi.org/)
+[<img align="left" alt="Python" height="28px" src="https://user-images.githubusercontent.com/95466780/208324329-29afa002-acd9-44fc-b226-c0984567a875.png" />](https://www.python.org/)
+[<img align="left" alt="Git" height="28px" src="https://user-images.githubusercontent.com/95466780/208324610-6d9be270-eaad-4087-9ff8-cc589f58378c.png" />](https://git-scm.com/)
+![svg](https://user-images.githubusercontent.com/95466780/208325323-4a939e0d-a1ab-411d-b28b-b8892b7176e4.svg)
+![ubuntu](https://user-images.githubusercontent.com/95466780/208325370-688340de-8c37-4f8c-9638-eac0cf7c7b3d.svg)
 <!---
 San3-Cod3/San3-Cod3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -31,4 +50,12 @@ $\colorbox{padding}{}$
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![San3-Cod3's github stats](https://github-readme-stats.vercel.app/api?username=San3-Cod3&show_icons=true&theme=radical&include_all_commits=true) | ![San3-Cod3's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=San3-Cod3&theme=radical&layout=compact) |
 
+
+| On-going Projects                                                                                                                                      | Completed Projects                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=CAR&show_owner=false&bg_color=000000&title_color=afa&text_color=bad&icon_color=a232f1&border_color=ffffff&)](https://github.com/San3-Cod3/CAR)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=SCA-M&show_owner=false&bg_color=333333&title_color=afaa1&text_color=aff&icon_color=f143f2&border_color=ffffff)](https://github.com/San3-Cod3/SCA-M)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=inxipy.tcl&show_owner=false&bg_color=333333&title_color=afaa1&text_color=aff&icon_color=f143f2&border_color=ffffff)](https://github.com/San3-Cod3/inxipy.tcl)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=eggdrop-old-1.6.x-ver.-backup&show_owner=false&bg_color=000000&title_color=afa&text_color=bad&icon_color=a232f1&border_color=ffffff&)](https://github.com/San3-Cod3/eggdrop-old-1.6.x-ver.-backup)
+
 ![](https://count.getloli.com/get/@San3-Cod3.github.readme)
+
+![](https://raw.githubusercontent.com/BEPb/BEPb/master/assets/Bottom_down.svg)
