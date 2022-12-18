@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on ... eggdrop TCL scripts and Python bots for now.
 
-- 📫 How to reach me ... not sure yet
+- 📫 How to reach me ... FreeProtonVPNUserAccount@proton.me
 
 <!---
 San3-Cod3/San3-Cod3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
