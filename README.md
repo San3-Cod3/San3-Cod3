@@ -24,4 +24,11 @@ $\colorbox{padding}{}$
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=AverMedia-LGU-GC553-Win7-supported_files&show_owner=false&bg_color=333333&title_color=afaa1&text_color=aff&icon_color=f143f2&border_color=ffffff)](https://github.com/San3-Cod3/AverMedia-LGU-GC553-Win7-supported_files)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=Gist...How_I_git_-n-_shi-&show_owner=false&bg_color=000000&title_color=afa&text_color=bad&icon_color=a232f1&border_color=ffffff&)](https://gist.github.com/San3-Cod3/6ef153d4444bbaed779e7bab1c00d588)
 
+$\colorbox{padding}{}$
+$\colorbox{padding}{}$
+
+| ‎                                                                                                                                       | ‎                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![San3-Cod3's github stats](https://github-readme-stats.vercel.app/api?username=San3-Cod3&show_icons=true&theme=radical&include_all_commits=true) | ![San3-Cod3's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=San3-Cod3&theme=radical&layout=compact) |
+
 ![](https://count.getloli.com/get/@San3-Cod3.github.readme)
