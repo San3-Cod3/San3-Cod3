@@ -27,6 +27,11 @@
 [<img align="left" alt="Git" height="28px" src="https://user-images.githubusercontent.com/95466780/208324610-6d9be270-eaad-4087-9ff8-cc589f58378c.png" />](https://git-scm.com/)
 ![svg](https://user-images.githubusercontent.com/95466780/208325323-4a939e0d-a1ab-411d-b28b-b8892b7176e4.svg)
 ![ubuntu](https://user-images.githubusercontent.com/95466780/208325370-688340de-8c37-4f8c-9638-eac0cf7c7b3d.svg)
+
+- ### Donations 🪙 :
+* - You can help support me if you found something useful or helpful :
+
+***Bitcoin:*** ```?```
 <!---
 San3-Cod3/San3-Cod3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
