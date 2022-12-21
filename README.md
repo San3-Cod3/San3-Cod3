@@ -32,6 +32,8 @@
 * - You can help support me if you found something useful or helpful :
 
 ***Bitcoin:*** ```bc1qhgclw0fan92vnvemwcdlzvqn9jqnjtawssepvn```
+
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge)](https://www.buymeacoffee.com/cheers.mate)
 <!---
 San3-Cod3/San3-Cod3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
