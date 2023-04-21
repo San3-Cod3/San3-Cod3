@@ -22,6 +22,7 @@
 
 - <--- Dabbled with ---> [<img align="left" alt="Linux" height="28px" src="https://user-images.githubusercontent.com/95466780/208324213-23630390-894a-4c0c-b2cc-cfff8db18fd1.png" />](https://www.linux.org/)
 [<img align="left" alt="Bash" height="28px" src="https://user-images.githubusercontent.com/95466780/208324129-7ab6a12f-92ba-44d2-aa42-2bd0cf551dc9.png" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Tcl" height="28px" src="https://user-images.githubusercontent.com/95466780/233642534-e3ac5f0c-3656-4cef-bfd7-830b54787aeb.svg" />](https://www.tcl-lang.org/)
 [<img align="left" alt="Raspberry Pi" height="28px" src="https://user-images.githubusercontent.com/95466780/208324472-6837936c-c78b-4095-a107-266acf49ee70.png" />](https://www.raspberrypi.org/)
 [<img align="left" alt="Python" height="28px" src="https://user-images.githubusercontent.com/95466780/208324329-29afa002-acd9-44fc-b226-c0984567a875.png" />](https://www.python.org/)
 [<img align="left" alt="Git-SCM" height="28px" src="https://user-images.githubusercontent.com/95466780/208324610-6d9be270-eaad-4087-9ff8-cc589f58378c.png" />](https://git-scm.com/)
