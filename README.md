@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/San3-Cod3/San3-Cod3"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.2.3-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-Win: 3.2.3 + 3.6.4 | Lin: 3.9.x-FF1493.svg"></a>
     <a href="https://github.com/San3-Cod3/San3-Cod3/graphs/contributors"><img src="https://img.shields.io/github/contributors/San3-Cod3/San3-Cod3?color=blue"></a>
     <a href="https://github.com/San3-Cod3/San3-Cod3/stargazers"><img src="https://img.shields.io/github/stars/San3-Cod3/San3-Cod3.svg?logo=github"></a>
     <a href="https://github.com/San3-Cod3/San3-Cod3/network/members"><img src="https://img.shields.io/github/forks/San3-Cod3/San3-Cod3.svg?color=blue&logo=github"></a>
