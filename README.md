@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=Gist...How_I_git_-n-_shi-&show_owner=false&bg_color=000000&title_color=afa&text_color=bad&icon_color=a232f1&border_color=ffffff&)](https://gist.github.com/San3-Cod3/6ef153d4444bbaed779e7bab1c00d588)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=bakabt_auto-login_prune-prevention.py&show_owner=false&bg_color=000000&title_color=afa&text_color=bad&icon_color=a232f1&border_color=ffffff&)](https://github.com/San3-Cod3/bakabt_auto-login_prune-prevention.py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=Gist...speedtest-cli_jq_json.sh&show_owner=false&bg_color=333333&title_color=afaa1&text_color=aff&icon_color=f143f2&border_color=ffffff)](https://gist.github.com/San3-Cod3/dfc039cb2bb2da0a3a6852a71be76027)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=pydiff&show_owner=false&bg_color=000000&title_color=afa&text_color=bad&icon_color=a232f1&border_color=ffffff)](https://github.com/San3-Cod3/pydiff)
 
 
 | ‎                                                                                                                                       | ‎                                                                                                                         |
