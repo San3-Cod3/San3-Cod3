@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in ... making simple stuff, noob friendly code - dumbing it down.
 
-- 🌱 I’m currently learning ... to make apps/bots/scripts, be it Windows Batch, Linux shell, Exe's+Elf's, eggdrop TCL or Python; 'n' stuff.
+- 🌱 I’m currently learning ... to make apps/bots/scripts, be it Windows Batch, Linux shell, Exe's 'n' Elf's, eggdrop TCL or Python stuff.
 
 - 💞️ I’m looking to collaborate on ... eggdrop TCL scripts, and Python bots and applications for now.
 
