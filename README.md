@@ -30,7 +30,7 @@
 [<img align="center" alt="Windows" height="" src="https://user-images.githubusercontent.com/95466780/208325323-4a939e0d-a1ab-411d-b28b-b8892b7176e4.svg" />]()
 [<img align="center" alt="Ubuntu" height="" src="https://user-images.githubusercontent.com/95466780/208325370-688340de-8c37-4f8c-9638-eac0cf7c7b3d.svg" />]()
 
-- ### Donations 🪙 :
+- ### Donations 💸 :
 * - You can help support me if you found something useful or helpful :
 
 ***Bitcoin:*** ```bc1qhgclw0fan92vnvemwcdlzvqn9jqnjtawssepvn```
