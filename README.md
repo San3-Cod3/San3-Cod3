@@ -42,6 +42,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Yo+hey+👋,+I'm+San3-Cod3;+Welcome+to+My+GitHub+Page!;I've+come+love+creating+Python+applications!;Always+learning+new+things+;Machine+learning+/+AI+enthusiast+;Python's+my+favourite+Programming+Language!;Check+out+some+of+my+repositories+below+😏)](https://git.io/typing-svg)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=CAR&show_owner=false&bg_color=000000&title_color=afa&text_color=bad&icon_color=a232f1&border_color=ffffff&)](https://github.com/San3-Cod3/CAR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=SCA-M&show_owner=false&bg_color=333333&title_color=afaa1&text_color=aff&icon_color=f143f2&border_color=ffffff)](https://github.com/San3-Cod3/SCA-M)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=San3-Cod3&repo=inxipy.tcl&show_owner=false&bg_color=333333&title_color=afaa1&text_color=aff&icon_color=f143f2&border_color=ffffff)](https://github.com/San3-Cod3/inxipy.tcl)
